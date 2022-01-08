@@ -1,1 +1,14 @@
 this is ranveer learning github
+how to update your file to repository from personal computer
+create the project folder and put the devlopment files on to it 
+open the terminal inside the folder and create a text file hello.txt using command touch hello.txt(write something in it)
+initialize git with git init command
+"git status" show the files that are added or not added
+git -m commit "frist commit"
+then add your git config --global user.email.sarkarbittuster@gmail.com and user.ranveerraj88 
+to check git config user.name ---user.email
+cml-git commit --m "frist commit"
+cml-git remote add origns http:\\ ...github.com\username\repo.git
+git push -u orign master
+then give username and generated token
+
